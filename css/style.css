@@ -1,0 +1,18 @@
+body {
+    color: hsl(0, 0%, 0%);
+    text-align: center;
+}
+#board {
+    width: 340px;
+    height: 340px;
+    background-color: hsl(167, 76%, 67%);
+    border-radius: 1rem;
+    padding: .5rem;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+#board img {
+    width: 37px;
+    height: 37px;
+}
