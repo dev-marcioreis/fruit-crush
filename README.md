@@ -6,7 +6,7 @@ Este projeto é baseado no Candy Crush.
 
 ## 🚀 Finalizando...
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScrpt
 
 ## ✒️ Autor
